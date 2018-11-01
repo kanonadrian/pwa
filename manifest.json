@@ -2,7 +2,7 @@
     "name": "Softnet PWA",
     "short_name": "Softnet PWA",
     "description": "Prueba de PWA",
-    "background_color": "#fff",
+    "background_color": "#000",
     "theme_color": "#FB314E",
     "orientation": "portrait",
     "display": "standalone",
