@@ -3,7 +3,7 @@
     "short_name": "Capacitación",
     "description": "Capacitación",
     "background_color": "#000",
-    "theme_color": "#FB314E",
+    "theme_color": "#000",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "./index.html?utm_source=web_app_manifest",
