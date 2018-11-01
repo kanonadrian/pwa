@@ -1,5 +1,5 @@
 //Asignar nombre y versión de la cache
-const CACHE_NAME= 'v3_cache_adrian_pwa';
+const CACHE_NAME= 'v4_cache_adrian_pwa';
 
 // Ficheros a cachear en la aplicación
 var urlsToCache = [

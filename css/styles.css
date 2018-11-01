@@ -214,6 +214,9 @@ body{
                 font-size: 25px;
                 line-height: 30px;
 	}
+                .logo{
+		text-align: center;
+	}
 }
 
 @media all and (max-width : 377px) {
@@ -235,4 +238,5 @@ body{
 	.menu ul li{
 		float: none;
 	}
+
 }
